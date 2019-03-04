@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="43528">
+	<shop>
+		<name>LOMONOSOV SPORTS</name>
+		<company>ЛОМОНОСОВ СПОРТС ООО</company>
+		<url>https://www.lomonosovsports.com</url>
+		<currencies>
+			<currency id="RUR" rate="1" plus="0"/>
+		</currencies>
+		<categories>
+			<category id="1">Бутылки для воды, шейкеры</category>
+		</categories>
+		<offers>
+			<offer id="7301805555553" available="true">
+				<oldprice>1250</oldprice>
+				<price>1250</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Спортивная бутылка</typePrefix>
+				<picture>https://github.com/Lomonosov185/Axis/blob/master/classic-rod.jpg?raw=true</picture>
+				<instock>0</instock>
+				<vendor>LOMONOSOV SPORTS</vendor>
+				<name>SPORTS Classic 700 ml</name>
+				<vendorCode>7301805555553</vendorCode>
+				<description>Спортивная бутылка  в элегантном, классическом стильном дизайне, удобная в использовании, как в тренажерном зале при занятиях спортом, так и в офисе.
+  
+Бутылка произведена по европейским стандартам качества на новейшем оборудовании в Швеции, из инновационного пищевого пластика, полученного из сырья растительного происхождения.
+ 
+Чистый, экологичный продукт, абсолютно безопасный для здоровья. Из этой бутылкой удобно и приятно утолить жажду в пробежке, пешей прогулке и на велосипеде.</description>
+				<manufacturer_warranty>LOMONOSOV SPORTS</manufacturer_warranty>
+				<barcode>7301805555553</barcode>
+				<country_of_origin>Швеция</country_of_origin>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
