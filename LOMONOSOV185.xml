@@ -17,10 +17,7 @@
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
-				<picture>https://fastpic.co/images/5001.jpg, https://fastpic.co/images/5001_1.jpg, 
-https://fastpic.co/images/5001_2.jpg, 
-https://fastpic.co/images/5001_3.jpg, 
-https://github.com/Lomonosov185/Axis/blob/master/5001_4.jpg?raw=true</picture>
+				<picture>https://fastpic.co/images/5001.jpg</picture>
 				<instock>100</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Fuse 450 ml White с инфьюзером</name>
@@ -45,10 +42,7 @@ https://github.com/Lomonosov185/Axis/blob/master/5001_4.jpg?raw=true</picture>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
-				<picture>https://fastpic.co/images/50022ab626e552fc9b7d.jpg, https://fastpic.co/images/5002_1.jpg, 
-https://fastpic.co/images/5002_2.jpg, 
-https://fastpic.co/images/5002_3.jpg, 
-https://fastpic.co/images/5002_4.jpg</picture>
+				<picture>https://fastpic.co/images/50022ab626e552fc9b7d.jpg</picture>
 				<instock>100</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Fuse 450 ml Black с инфьюзером</name>
@@ -73,8 +67,7 @@ https://fastpic.co/images/5002_4.jpg</picture>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
-				<picture>https://fastpic.co/images/5003bf9bce450fd38edf.jpg, https://fastpic.co/images/5003_1.jpg, 
-https://fastpic.co/images/5003_2.jpg</picture>
+				<picture>https://fastpic.co/images/5003bf9bce450fd38edf.jpg</picture>
 				<instock>100</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Shiva 750 ml Orange</name>
@@ -93,8 +86,7 @@ https://fastpic.co/images/5003_2.jpg</picture>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
-				<picture>https://fastpic.co/images/5004.jpg, https://fastpic.co/images/5004_1.jpg, 
-https://fastpic.co/images/5004_2.jpg</picture>
+				<picture>https://fastpic.co/images/5004.jpg</picture>
 				<instock>100</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Source 750 ml Silver</name>
@@ -113,8 +105,7 @@ https://fastpic.co/images/5004_2.jpg</picture>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
-				<picture>https://fastpic.co/images/5005.jpg, https://fastpic.co/images/5005_1.jpg, 
-https://fastpic.co/images/5005_2.jpg</picture>
+				<picture>https://fastpic.co/images/5005.jpg</picture>
 				<instock>100</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Source 500 ml White</name>
