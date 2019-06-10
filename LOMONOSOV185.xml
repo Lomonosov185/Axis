@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2019-03-06 19:05">
+<yml_catalog date="2019-06-10 23:05">
 	<shop>
 		<name>LOMONOSOV SPORTS</name>
 		<company>ЛОМОНОСОВ СПОРТС ООО</company>
@@ -11,25 +11,121 @@
 			<category id="1">Бутылки для воды, шейкеры</category>
 		</categories>
 		<offers>
-			<offer id="7301805555553" available="true">
-				<oldprice>1250</oldprice>
-				<price>1250</price>
+			<offer id="8701855555586" available="true">
+				<oldprice>1295</oldprice>
+				<price>1295</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
-				<picture>https://github.com/Lomonosov185/Axis/blob/master/classic-rod.jpg?raw=true</picture>
-				<instock>0</instock>
+				<picture>https://fastpic.co/images/5001.jpg, https://fastpic.co/images/5001_1.jpg, 
+https://fastpic.co/images/5001_2.jpg, 
+https://fastpic.co/images/5001_3.jpg, 
+https://github.com/Lomonosov185/Axis/blob/master/5001_4.jpg?raw=true</picture>
+				<instock>100</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
-				<name>SPORTS Classic 700 ml</name>
-				<vendorCode>7301805555553</vendorCode>
-				<description>Спортивная бутылка  в элегантном, классическом стильном дизайне, удобная в использовании, как в тренажерном зале при занятиях спортом, так и в офисе.
-  
-Бутылка произведена по европейским стандартам качества на новейшем оборудовании в Швеции, из инновационного пищевого пластика, полученного из сырья растительного происхождения.
- 
-Чистый, экологичный продукт, абсолютно безопасный для здоровья. Из этой бутылкой удобно и приятно утолить жажду в пробежке, пешей прогулке и на велосипеде.</description>
+				<name>Бутылка LOMONOSOV SPORTS Fuse 450 ml White с инфьюзером</name>
+				<vendorCode>8701855555586</vendorCode>
+				<description>Спортивная бутылка с инфьюзером, для настаивания фруктов и ягод на воде.  Добавьте воде вкуса, полезных вещества  и витаминов.  
+Бутылка LOMONOSOV SPORTS - это сжимаемая элегантная бутылка в стиле здорового образа жизни. 
+
+Спортивная бутылка LOMONOSOV SPORTS, удобная в использовании, как в тренажерном зале при занятиях спортом, так и в офисе. 
+
+Бутылка произведена по европейским стандартам качества и безопасности в Нидерландах, из инновационного, самого безопасного пищевого пластика, полученного из сырья растительного происхождения (исходное сырье – сахарный тростник), не содержит BPA. 
+
+Из этой бутылки удобно и приятно утолить жажду на пробежке, пешей прогулке и на велосипеде.
+
+Спортивная бутылка LOMONOSOV SPORTS: экологичная, способствует сохранению окружающей среды и снижению выбросов CO2  в атмосферу,  произведена из материала безопасного для здоровья.</description>
 				<manufacturer_warranty>LOMONOSOV SPORTS</manufacturer_warranty>
-				<barcode>7301805555553</barcode>
-				<country_of_origin>Швеция</country_of_origin>
+				<barcode>8701855555586</barcode>
+				<country_of_origin>Нидерланды</country_of_origin>
+			</offer>
+			<offer id="8701855555555" available="true">
+				<oldprice>1295</oldprice>
+				<price>1295</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Спортивная бутылка</typePrefix>
+				<picture>https://fastpic.co/images/50022ab626e552fc9b7d.jpg, https://fastpic.co/images/5002_1.jpg, 
+https://fastpic.co/images/5002_2.jpg, 
+https://fastpic.co/images/5002_3.jpg, 
+https://fastpic.co/images/5002_4.jpg</picture>
+				<instock>100</instock>
+				<vendor>LOMONOSOV SPORTS</vendor>
+				<name>Бутылка LOMONOSOV SPORTS Fuse 450 ml Black с инфьюзером</name>
+				<vendorCode>8701855555555</vendorCode>
+				<description>Спортивная бутылка с инфьюзером, для настаивания фруктов и ягод на воде.  Добавьте воде вкуса, полезных вещества  и витаминов.  
+Бутылка LOMONOSOV SPORTS - это сжимаемая элегантная бутылка в стиле здорового образа жизни. 
+
+Спортивная бутылка LOMONOSOV SPORTS, удобная в использовании, как в тренажерном зале при занятиях спортом, так и в офисе. 
+
+Бутылка произведена по европейским стандартам качества и безопасности в Нидерландах, из инновационного, самого безопасного пищевого пластика, полученного из сырья растительного происхождения (исходное сырье – сахарный тростник), не содержит BPA. 
+
+Из этой бутылки удобно и приятно утолить жажду на пробежке, пешей прогулке и на велосипеде.
+
+Спортивная бутылка LOMONOSOV SPORTS: экологичная, способствует сохранению окружающей среды и снижению выбросов CO2  в атмосферу,  произведена из материала безопасного для здоровья.</description>
+				<manufacturer_warranty>LOMONOSOV SPORTS</manufacturer_warranty>
+				<barcode>8701855555555</barcode>
+				<country_of_origin>Нидерланды</country_of_origin>
+			</offer>
+			<offer id="8701855555739" available="true">
+				<oldprice>1395</oldprice>
+				<price>1395</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Спортивная бутылка</typePrefix>
+				<picture>https://fastpic.co/images/5003bf9bce450fd38edf.jpg, https://fastpic.co/images/5003_1.jpg, 
+https://fastpic.co/images/5003_2.jpg</picture>
+				<instock>100</instock>
+				<vendor>LOMONOSOV SPORTS</vendor>
+				<name>Бутылка LOMONOSOV SPORTS Shiva 750 ml Orange</name>
+				<vendorCode>8701855555739</vendorCode>
+				<description>Спортивная бутылка LOMONOSOV SPORTS Shiva имеет новейший тип крышки, которая отличается от прочих благодаря своей специальной мембране. Клапан открывается и закрывается одним легким поворотом. При использовании вы можете оставлять клапан в открытом положении, мембранная система предотвратит утечку. Одним сжатием бутылки жидкость высвобождается в точной необходимой дозировке. 
+Спортивная бутылка Shiva, удобная в использовании, как в тренажерном зале при занятиях спортом, так и в офисе. 
+Бутылка произведена по европейским стандартам качества и безопасности в Нидерландах, из инновационного, самого безопасного из всех видов пищевого пластика, полученного из сырья растительного происхождения (исходное сырье – сахарный тростник), не содержит BPA. 
+Из этой бутылки удобно и приятно утолить жажду на пробежке, пешей прогулке и на велосипеде.Спортивная бутылка Shiva: экологичная, способствует сохранению окружающей среды и снижению выбросов CO2 в атмосферу, произведена из материала безопасного для здоровья.</description>
+				<manufacturer_warranty>LOMONOSOV SPORTS</manufacturer_warranty>
+				<barcode>8701855555739</barcode>
+				<country_of_origin>Нидерланды</country_of_origin>
+			</offer>
+			<offer id="8701855555708" available="true">
+				<oldprice>1145</oldprice>
+				<price>1145</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Спортивная бутылка</typePrefix>
+				<picture>https://fastpic.co/images/5004.jpg, https://fastpic.co/images/5004_1.jpg, 
+https://fastpic.co/images/5004_2.jpg</picture>
+				<instock>100</instock>
+				<vendor>LOMONOSOV SPORTS</vendor>
+				<name>Бутылка LOMONOSOV SPORTS Source 750 ml Silver</name>
+				<vendorCode>8701855555708</vendorCode>
+				<description>У бутылки LOMONOSOV SPORTS Source прогрессивный, энергичный и легкий дизайн, плавные аэродинамические линии усиливают эффект легкости. Прижимная крышка имеет клапан, который может быть заблокирован, есть дополнительное крепление в виде асимметричного кольца. 
+Спортивная бутылка LOMONOSOV SPORTS Source, удобная в использовании, как в тренажерном зале при занятиях спортом, так и в офисе. 
+Бутылка произведена по европейским стандартам качества и безопасности в Нидерландах, из инновационного, самого безопасного из всех видов пищевого пластика, полученного из сырья растительного происхождения (исходное сырье – сахарный тростник), не содержит BPA. 
+Из этой бутылки удобно и приятно утолить жажду на пробежке, пешей прогулке и на велосипеде. Спортивная бутылка LOMONOSOV SPORTS Source: экологичная, способствует сохранению окружающей среды и снижению выбросов CO2 в атмосферу, произведена из материала безопасного для здоровья.</description>
+				<manufacturer_warranty>LOMONOSOV SPORTS</manufacturer_warranty>
+				<barcode>8701855555708</barcode>
+				<country_of_origin>Нидерланды</country_of_origin>
+			</offer>
+			<offer id="8701855555647" available="true">
+				<oldprice>1075</oldprice>
+				<price>1075</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<typePrefix>Спортивная бутылка</typePrefix>
+				<picture>https://fastpic.co/images/5005.jpg, https://fastpic.co/images/5005_1.jpg, 
+https://fastpic.co/images/5005_2.jpg</picture>
+				<instock>100</instock>
+				<vendor>LOMONOSOV SPORTS</vendor>
+				<name>Бутылка LOMONOSOV SPORTS Source 500 ml White</name>
+				<vendorCode>8701855555647</vendorCode>
+				<description>У бутылки LOMONOSOV SPORTS Source прогрессивный, энергичный и легкий дизайн, плавные аэродинамические линии усиливают эффект легкости. Прижимная крышка имеет клапан, который может быть заблокирован, есть дополнительное крепление в виде асимметричного кольца. 
+Спортивная бутылка LOMONOSOV SPORTS Source, удобная в использовании, как в тренажерном зале при занятиях спортом, так и в офисе. 
+Бутылка произведена по европейским стандартам качества и безопасности в Нидерландах, из инновационного, самого безопасного из всех видов пищевого пластика, полученного из сырья растительного происхождения (исходное сырье – сахарный тростник), не содержит BPA. 
+Из этой бутылки удобно и приятно утолить жажду на пробежке, пешей прогулке и на велосипеде. Спортивная бутылка LOMONOSOV SPORTS Source: экологичная, способствует сохранению окружающей среды и снижению выбросов CO2 в атмосферу, произведена из материала безопасного для здоровья.</description>
+				<manufacturer_warranty>LOMONOSOV SPORTS</manufacturer_warranty>
+				<barcode>8701855555647</barcode>
+				<country_of_origin>Нидерланды</country_of_origin>
 			</offer>
 		</offers>
 	</shop>
