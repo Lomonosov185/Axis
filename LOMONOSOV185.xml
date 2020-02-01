@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2020-01-28 23:05">
+<yml_catalog date="2020-02-01 19:05">
 	<shop>
 		<name>LOMONOSOV SPORTS</name>
 		<company>ЛОМОНОСОВ СПОРТС ООО</company>
@@ -15,13 +15,13 @@
 		</categories>
 		<offers>
 			<offer id="8701855555586" available="true">
-				<oldprice>1295</oldprice>
-				<price>1295</price>
+				<oldprice>989</oldprice>
+				<price>989</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
 				<picture>https://fastpic.co/images/5001.jpg</picture>
-				<instock>100</instock>
+				<instock>3</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Fuse 450 ml White с инфьюзером</name>
 				<vendorCode>8701855555586</vendorCode>
@@ -40,13 +40,13 @@
 				<country_of_origin>Нидерланды</country_of_origin>
 			</offer>
 			<offer id="8701855555555" available="true">
-				<oldprice>1295</oldprice>
-				<price>1295</price>
+				<oldprice>989</oldprice>
+				<price>989</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
 				<picture>https://fastpic.co/images/50022ab626e552fc9b7d.jpg</picture>
-				<instock>100</instock>
+				<instock>5</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Fuse 450 ml Black с инфьюзером</name>
 				<vendorCode>8701855555555</vendorCode>
@@ -65,13 +65,13 @@
 				<country_of_origin>Нидерланды</country_of_origin>
 			</offer>
 			<offer id="8701855555739" available="true">
-				<oldprice>1395</oldprice>
-				<price>1395</price>
+				<oldprice>989</oldprice>
+				<price>989</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
 				<picture>https://fastpic.co/images/5003bf9bce450fd38edf.jpg</picture>
-				<instock>100</instock>
+				<instock>3</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Shiva 750 ml Orange</name>
 				<vendorCode>8701855555739</vendorCode>
@@ -84,13 +84,13 @@
 				<country_of_origin>Нидерланды</country_of_origin>
 			</offer>
 			<offer id="8701855555708" available="true">
-				<oldprice>1145</oldprice>
-				<price>1145</price>
+				<oldprice>879</oldprice>
+				<price>879</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
 				<picture>https://fastpic.co/images/5004.jpg</picture>
-				<instock>100</instock>
+				<instock>3</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Source 750 ml Silver</name>
 				<vendorCode>8701855555708</vendorCode>
@@ -103,13 +103,13 @@
 				<country_of_origin>Нидерланды</country_of_origin>
 			</offer>
 			<offer id="8701855555647" available="true">
-				<oldprice>1075</oldprice>
-				<price>1075</price>
+				<oldprice>799</oldprice>
+				<price>799</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
 				<picture>https://fastpic.co/images/5005.jpg</picture>
-				<instock>100</instock>
+				<instock>3</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Бутылка LOMONOSOV SPORTS Source 500 ml White</name>
 				<vendorCode>8701855555647</vendorCode>
@@ -122,13 +122,13 @@
 				<country_of_origin>Нидерланды</country_of_origin>
 			</offer>
 			<offer id="4627154002344" available="true">
-				<oldprice>1250</oldprice>
-				<price>1250</price>
+				<oldprice>899</oldprice>
+				<price>899</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2</categoryId>
 				<typePrefix>Напиток с кофеином</typePrefix>
 				<picture>https://fastpic.co/images/Lomonosov_Coffee_5.jpg</picture>
-				<instock>100</instock>
+				<instock>1</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Кофе Lomonosov Sports IQ Booster MCT Coffee</name>
 				<vendorCode>4627154002344</vendorCode>
@@ -160,13 +160,13 @@ MCT масло, входящее в состав напитка очень бы�
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="4601855555538" available="true">
-				<oldprice>390</oldprice>
-				<price>390</price>
+				<oldprice>319</oldprice>
+				<price>319</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3</categoryId>
 				<typePrefix>Фруктовые чипсы</typePrefix>
 				<picture>https://fastpic.co/images/CRISP_Grusha.jpg</picture>
-				<instock>100</instock>
+				<instock>1</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Фруктовые чипсы LOMONOSOV SPORTS Груша</name>
 				<vendorCode>4601855555538</vendorCode>
@@ -198,13 +198,13 @@ MCT масло, входящее в состав напитка очень бы�
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="4601855555545" available="true">
-				<oldprice>390</oldprice>
-				<price>390</price>
+				<oldprice>319</oldprice>
+				<price>319</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3</categoryId>
 				<typePrefix>Фруктовые чипсы</typePrefix>
 				<picture>https://fastpic.co/images/CRISP_Kiwi.jpg</picture>
-				<instock>100</instock>
+				<instock>1</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Фруктовые чипсы LOMONOSOV SPORTS Киви</name>
 				<vendorCode>4601855555545</vendorCode>
@@ -240,13 +240,13 @@ LOMONOSOV SPORTS Kiwi Chips - это полезные чипсы пригото�
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="4601855555583" available="true">
-				<oldprice>390</oldprice>
-				<price>390</price>
+				<oldprice>319</oldprice>
+				<price>319</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>3</categoryId>
 				<typePrefix>Фруктовые чипсы</typePrefix>
 				<picture>https://fastpic.co/images/CRISP_Ananas.jpg</picture>
-				<instock>100</instock>
+				<instock>1</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Фруктовые чипсы LOMONOSOV SPORTS Ананас</name>
 				<vendorCode>4601855555583</vendorCode>
@@ -280,13 +280,13 @@ LOMONOSOV SPORTS Kiwi Chips - это полезные чипсы пригото�
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="4601855555828" available="true">
-				<oldprice>490</oldprice>
-				<price>490</price>
+				<oldprice>389</oldprice>
+				<price>389</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>4</categoryId>
 				<typePrefix>Чай</typePrefix>
 				<picture>https://fastpic.co/images/Sport_Tea_Oz.jpg</picture>
-				<instock>100</instock>
+				<instock>1</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Чай LOMONOSOV SPORTS Tea</name>
 				<vendorCode>4601855555828</vendorCode>
@@ -318,13 +318,13 @@ LOMONOSOV SPORTS Kiwi Chips - это полезные чипсы пригото�
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="4601855555811" available="true">
-				<oldprice>490</oldprice>
-				<price>490</price>
+				<oldprice>389</oldprice>
+				<price>389</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>4</categoryId>
 				<typePrefix>Чай</typePrefix>
 				<picture>https://fastpic.co/images/IQBooster_Tea_Oz.jpg</picture>
-				<instock>100</instock>
+				<instock>1</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Чай LOMONOSOV SPORTS IQ Booster Tea</name>
 				<vendorCode>4601855555811</vendorCode>
@@ -352,13 +352,13 @@ LOMONOSOV SPORTS Kiwi Chips - это полезные чипсы пригото�
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="4601855555835" available="true">
-				<oldprice>490</oldprice>
-				<price>490</price>
+				<oldprice>389</oldprice>
+				<price>389</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>4</categoryId>
 				<typePrefix>Чай</typePrefix>
 				<picture>https://fastpic.co/images/Yoga_Tea_Oz.jpg</picture>
-				<instock>100</instock>
+				<instock>1</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Чай LOMONOSOV SPORTS Yoga Tea</name>
 				<vendorCode>4601855555835</vendorCode>
@@ -392,13 +392,13 @@ YOGA TEA - это искусство чувствовать себя хорош�
 				<country_of_origin>Россия</country_of_origin>
 			</offer>
 			<offer id="4601855555781" available="true">
-				<oldprice>1250</oldprice>
-				<price>1250</price>
+				<oldprice>899</oldprice>
+				<price>899</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2</categoryId>
 				<typePrefix>Напиток с кофеином</typePrefix>
 				<picture>https://fastpic.co/images/IQ_Coffe_01b.jpg</picture>
-				<instock>100</instock>
+				<instock>10</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Кофе IQ Booster MCT Coffee Irish Cream</name>
 				<vendorCode>4601855555781</vendorCode>
