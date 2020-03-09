@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<yml_catalog date="2020-02-01 19:05">
+<yml_catalog date="2020-03-09 21:05">
 	<shop>
 		<name>LOMONOSOV SPORTS</name>
 		<company>ЛОМОНОСОВ СПОРТС ООО</company>
@@ -85,7 +85,7 @@
 			</offer>
 			<offer id="8701855555708" available="true">
 				<oldprice>879</oldprice>
-				<price>879</price>
+				<price>989</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>1</categoryId>
 				<typePrefix>Спортивная бутылка</typePrefix>
@@ -123,12 +123,12 @@
 			</offer>
 			<offer id="4627154002344" available="true">
 				<oldprice>899</oldprice>
-				<price>899</price>
+				<price>640</price>
 				<currencyId>RUR</currencyId>
 				<categoryId>2</categoryId>
 				<typePrefix>Напиток с кофеином</typePrefix>
 				<picture>https://fastpic.co/images/Lomonosov_Coffee_5.jpg</picture>
-				<instock>1</instock>
+				<instock>10</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Кофе Lomonosov Sports IQ Booster MCT Coffee</name>
 				<vendorCode>4627154002344</vendorCode>
@@ -286,7 +286,7 @@ LOMONOSOV SPORTS Kiwi Chips - это полезные чипсы пригото�
 				<categoryId>4</categoryId>
 				<typePrefix>Чай</typePrefix>
 				<picture>https://fastpic.co/images/Sport_Tea_Oz.jpg</picture>
-				<instock>1</instock>
+				<instock>0</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Чай LOMONOSOV SPORTS Tea</name>
 				<vendorCode>4601855555828</vendorCode>
@@ -324,7 +324,7 @@ LOMONOSOV SPORTS Kiwi Chips - это полезные чипсы пригото�
 				<categoryId>4</categoryId>
 				<typePrefix>Чай</typePrefix>
 				<picture>https://fastpic.co/images/IQBooster_Tea_Oz.jpg</picture>
-				<instock>1</instock>
+				<instock>0</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Чай LOMONOSOV SPORTS IQ Booster Tea</name>
 				<vendorCode>4601855555811</vendorCode>
@@ -358,7 +358,7 @@ LOMONOSOV SPORTS Kiwi Chips - это полезные чипсы пригото�
 				<categoryId>4</categoryId>
 				<typePrefix>Чай</typePrefix>
 				<picture>https://fastpic.co/images/Yoga_Tea_Oz.jpg</picture>
-				<instock>1</instock>
+				<instock>0</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Чай LOMONOSOV SPORTS Yoga Tea</name>
 				<vendorCode>4601855555835</vendorCode>
@@ -398,7 +398,7 @@ YOGA TEA - это искусство чувствовать себя хорош�
 				<categoryId>2</categoryId>
 				<typePrefix>Напиток с кофеином</typePrefix>
 				<picture>https://fastpic.co/images/IQ_Coffe_01b.jpg</picture>
-				<instock>10</instock>
+				<instock>1</instock>
 				<vendor>LOMONOSOV SPORTS</vendor>
 				<name>Кофе IQ Booster MCT Coffee Irish Cream</name>
 				<vendorCode>4601855555781</vendorCode>
